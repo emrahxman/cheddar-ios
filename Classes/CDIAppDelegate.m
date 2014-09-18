@@ -27,7 +27,7 @@
 + (CDIAppDelegate *)sharedAppDelegate {
 	return (CDIAppDelegate *)[[UIApplication sharedApplication] delegate];
 }
-
+// deneme emrah
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 	// Configure analytics
